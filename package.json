@@ -1,6 +1,6 @@
 {
   "name": "billerconnect",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Módulo para utilizar sistema de facturación electrónica (v1.0) de biller.uy (Uruguay) [Crear y obtener comprobantes electrónicos y facturas en pdf].",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
     "electónica"
   ],
   "author": "Jonathan Correa Paiva",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
 }
